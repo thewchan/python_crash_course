@@ -1,0 +1,4 @@
+Parameters are information needed by functions to do its job.
+Arguments are information passed from the function call to the function.
+Methods are functions that are part of a Class.
+Attributes are variables that can be accessed throughout instances of a class.
